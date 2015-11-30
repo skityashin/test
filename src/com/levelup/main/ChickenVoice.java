@@ -1,6 +1,7 @@
 package com.levelup.main;
 
 
+
 public class ChickenVoice {
     static EggVoice mAnotherOpinion;	//Побочный поток
 
