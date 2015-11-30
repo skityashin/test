@@ -5,6 +5,7 @@ package com.levelup.main;
 public class ChickenVoice {
     static EggVoice mAnotherOpinion;	//Побочный поток
 
+
     public static void main(String[] args)
     {
         mAnotherOpinion = new EggVoice();	//Создание потока
